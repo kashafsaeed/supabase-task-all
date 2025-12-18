@@ -1,1 +1,1 @@
-Supabase Authentication , Database , Storage 
+Supabase Authentication , Database , Storage ,curd
